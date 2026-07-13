@@ -177,21 +177,5 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
 
-**Avaneesh Ravi**
 
-Aspiring AI/ML Engineer | Data Scientist
-
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- SQL
-- Power BI
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
